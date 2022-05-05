@@ -1,0 +1,8 @@
+<application>
+  <component name="IndentRainbowConfig">
+    <option name="bigFilesLineThreshold" value="1500" />
+    <option name="highlightEmptyLines" value="false" />
+    <option name="opacityMultiplier" value="-0.86" />
+    <option name="paletteType" value="DEFAULT" />
+  </component>
+</application>

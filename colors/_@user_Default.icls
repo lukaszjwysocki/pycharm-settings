@@ -3,43 +3,43 @@
     <property name="created">2022-03-29T17:21:03</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-05-05T09:26:13</property>
+    <property name="modified">2022-05-05T09:54:22</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fafbfd" />
+        <option name="BACKGROUND" value="fffff4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f9fdfc" />
+        <option name="BACKGROUND" value="f8fff8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fdfefb" />
+        <option name="BACKGROUND" value="fff8ff" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="fffcfa" />
+        <option name="BACKGROUND" value="f5fefe" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="fff9f8" />
+        <option name="BACKGROUND" value="fff8f8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="fff6f7" />
+        <option name="BACKGROUND" value="fff5f6" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="eee2e2" />
+        <option name="BACKGROUND" value="eddfdf" />
       </value>
     </option>
   </attributes>

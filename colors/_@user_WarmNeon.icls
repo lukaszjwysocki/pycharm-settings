@@ -3,7 +3,7 @@
     <property name="created">2022-03-29T17:21:03</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-05-05T09:26:13</property>
+    <property name="modified">2022-05-05T09:54:22</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <colors>
@@ -572,37 +572,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="49494b" />
+        <option name="BACKGROUND" value="474740" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="484b4a" />
+        <option name="BACKGROUND" value="424742" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="4a4b49" />
+        <option name="BACKGROUND" value="474247" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="4c4a48" />
+        <option name="BACKGROUND" value="414646" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="4c4847" />
+        <option name="BACKGROUND" value="4e4948" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="4c4646" />
+        <option name="BACKGROUND" value="4e4647" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="483c3c" />
+        <option name="BACKGROUND" value="493b3b" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
