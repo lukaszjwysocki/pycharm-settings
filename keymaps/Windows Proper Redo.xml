@@ -5,6 +5,10 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="ChooseRunConfiguration" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift c" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindUsages">
