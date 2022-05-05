@@ -1,11 +1,21 @@
 <scheme name="_@user_Monokai Pro (Filter Spectrum) - No Italics" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-05-05T08:58:11</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-05T09:26:13</property>
+    <property name="modified">2022-05-05T09:41:27</property>
     <property name="originalScheme">Monokai Pro (Filter Spectrum) - No Italics</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="7bd88f" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
