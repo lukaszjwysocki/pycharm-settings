@@ -3,7 +3,7 @@
     <property name="created">2022-05-05T09:26:09</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-05T09:54:22</property>
+    <property name="modified">2022-05-05T16:29:58</property>
     <property name="originalScheme">Monokai Pro (Filter Octagon) - No Italics</property>
   </metaInfo>
   <colors>
@@ -1001,22 +1001,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="2f313a" />
+        <option name="BACKGROUND" value="2d2f3a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2b313c" />
+        <option name="BACKGROUND" value="2a2f3b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="2f2d41" />
+        <option name="BACKGROUND" value="2d2c3e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="293140" />
+        <option name="BACKGROUND" value="292e3e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -1031,7 +1031,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="352936" />
+        <option name="BACKGROUND" value="302938" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

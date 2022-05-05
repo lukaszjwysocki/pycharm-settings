@@ -3,7 +3,7 @@
     <property name="created">2022-03-29T17:21:03</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-05-05T09:54:22</property>
+    <property name="modified">2022-05-05T16:29:58</property>
     <property name="originalScheme">Twilight</property>
   </metaInfo>
   <colors>
@@ -847,22 +847,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="1c1c15" />
+        <option name="BACKGROUND" value="191915" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="181c18" />
+        <option name="BACKGROUND" value="161916" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="1c181c" />
+        <option name="BACKGROUND" value="191619" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="161b1b" />
+        <option name="BACKGROUND" value="151919" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -877,7 +877,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="241616" />
+        <option name="BACKGROUND" value="1e1515" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
