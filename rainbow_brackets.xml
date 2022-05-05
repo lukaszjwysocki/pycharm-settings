@@ -1,0 +1,9 @@
+<application>
+  <component name="RainbowSettings">
+    <option name="applyColorsOfRoundForAllBrackets" value="true" />
+    <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="doNOTRainbowifyTheFirstLevel" value="true" />
+    <option name="useColorGenerator" value="true" />
+    <option name="version" value="6.22" />
+  </component>
+</application>
