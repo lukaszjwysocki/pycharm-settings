@@ -5,6 +5,12 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="ChooseRunConfiguration" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPaths" />
   <action id="EditorDeleteLine" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindUsages">
@@ -23,4 +29,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="ToggleBookmark2" />
+  <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>
