@@ -3,7 +3,7 @@
     <property name="created">2022-03-29T17:21:03</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-05-05T09:54:22</property>
+    <property name="modified">2022-05-05T16:29:58</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -558,22 +558,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="1b1b15" />
+        <option name="BACKGROUND" value="181815" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="171b18" />
+        <option name="BACKGROUND" value="151816" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="1b171c" />
+        <option name="BACKGROUND" value="181519" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="151a1b" />
+        <option name="BACKGROUND" value="141819" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -588,7 +588,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="231516" />
+        <option name="BACKGROUND" value="1d1415" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

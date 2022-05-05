@@ -4,7 +4,7 @@
     <property name="created">2022-05-05T08:58:11</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-05T09:54:22</property>
+    <property name="modified">2022-05-05T16:29:58</property>
     <property name="originalScheme">Monokai Pro (Filter Spectrum) - No Italics</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1011,22 +1011,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="2a2a23" />
+        <option name="BACKGROUND" value="272723" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="252a25" />
+        <option name="BACKGROUND" value="242724" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="2a252a" />
+        <option name="BACKGROUND" value="272427" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="242929" />
+        <option name="BACKGROUND" value="232626" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -1041,7 +1041,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="302222" />
+        <option name="BACKGROUND" value="2b2222" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
