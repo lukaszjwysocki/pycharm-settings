@@ -3,7 +3,7 @@
     <property name="created">2022-03-29T17:21:03</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-05-05T09:26:13</property>
+    <property name="modified">2022-05-05T09:54:22</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -558,37 +558,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="1f1f22" />
+        <option name="BACKGROUND" value="1b1b15" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="1d2121" />
+        <option name="BACKGROUND" value="171b18" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="202120" />
+        <option name="BACKGROUND" value="1b171c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="22201f" />
+        <option name="BACKGROUND" value="151a1b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="221e1e" />
+        <option name="BACKGROUND" value="241f1f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="221c1d" />
+        <option name="BACKGROUND" value="241d1e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="211516" />
+        <option name="BACKGROUND" value="231516" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
