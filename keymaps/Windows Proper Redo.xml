@@ -25,10 +25,14 @@
     <keyboard-shortcut first-keystroke="shift 6" />
   </action>
   <action id="ReplaceInPath" />
-  <action id="Run">
+  <action id="Run" />
+  <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="ToggleBookmark2" />
   <action id="WelcomeScreen.CopyProjectPath" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
+  <action id="runShellFileAction">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
 </keymap>
