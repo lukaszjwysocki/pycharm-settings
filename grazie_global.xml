@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="write to tutors" />
+            <option value=":" />
           </set>
         </option>
       </SuppressingContext>
